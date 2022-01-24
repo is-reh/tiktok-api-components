@@ -6,4 +6,3 @@ Telegram : <a href="https://t.me/isreh1">isreh1</a></br>
 <img src="x-gorgon.gif"/>
 
 <img src="device-register.gif"/>
-
